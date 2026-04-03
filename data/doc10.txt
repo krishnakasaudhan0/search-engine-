@@ -1,0 +1,5 @@
+.mw-parser-output .valid-svg{border:1px solid #55B05A;display:inline-block;margin:0.1em}.mw-parser-output .valid-svg-image{background-color:#55B05A;color:#FFDD77;display:inline-block;font-size:1.5em}.mw-parser-output .valid-svg-text{padding:0 0.25em}
+
+✓
+The source code of this SVG is valid.
+
